@@ -1,7 +1,7 @@
 # ©️ Ayça "Alex" Kaygusuz 2025
 
 import unittest
-from phone_letter_combinations import letter_combinations
+from src.phone_letter_combinations import letter_combinations
 
 class TestPhoneLetterCombinations(unittest.TestCase):
     def test_empty_input(self):

@@ -1,7 +1,7 @@
 # ©️ Ayça "Alex" Kaygusuz 2025
 
 import unittest
-from substring_concat import findSubstring
+from src.substring_concat import findSubstring
 
 class TestFindSubstring(unittest.TestCase):
     def test_example_cases(self):
